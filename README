@@ -1,0 +1,1 @@
+Convenience classes to test REST request. So far, only get request implemented ( but no query params yet )
